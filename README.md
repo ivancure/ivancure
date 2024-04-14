@@ -258,3 +258,15 @@
  <source media="(prefers-color-scheme: light)" srcset="https://64.media.tumblr.com/e51ac7748f2ed3d112929abd794e8811/faea68e1daee2d59-e0/s100x200/797c782d7b2bcc33b6cf0618114c53c1078bc723.gifv">
  <img alt="stamp" src="https://64.media.tumblr.com/e51ac7748f2ed3d112929abd794e8811/faea68e1daee2d59-e0/s100x200/797c782d7b2bcc33b6cf0618114c53c1078bc723.gifv">
 </picture>
+
+<picture>
+ <source media="(prefers-color-scheme: dark)" srcset="https://orig00.deviantart.net/d325/f/2014/239/4/4/pikachu_stamp_by_she_kaiju-d7wut78.gif">
+ <source media="(prefers-color-scheme: light)" srcset="https://orig00.deviantart.net/d325/f/2014/239/4/4/pikachu_stamp_by_she_kaiju-d7wut78.gif">
+ <img alt="stamp" src="https://orig00.deviantart.net/d325/f/2014/239/4/4/pikachu_stamp_by_she_kaiju-d7wut78.gif">
+</picture>
+
+<picture>
+ <source media="(prefers-color-scheme: dark)" srcset="https://64.media.tumblr.com/a76707ae7b826543e0c234f628298fe3/tumblr_inline_paunbmGPQ31v11djx_100.gif">
+ <source media="(prefers-color-scheme: light)" srcset="https://64.media.tumblr.com/a76707ae7b826543e0c234f628298fe3/tumblr_inline_paunbmGPQ31v11djx_100.gif">
+ <img alt="stamp" src="https://64.media.tumblr.com/a76707ae7b826543e0c234f628298fe3/tumblr_inline_paunbmGPQ31v11djx_100.gif">
+</picture>
