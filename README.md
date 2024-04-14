@@ -44,7 +44,6 @@ here are some things i fw
  <source media="(prefers-color-scheme: light)" srcset="https://64.media.tumblr.com/cf52414f63912c4b461f51def5db6ac4/cbf1d710120a4937-c4/s100x200/eede639e2b77d325a6de473a83b7af874c056b32.pnj">
  <img alt="stamp" src="https://64.media.tumblr.com/cf52414f63912c4b461f51def5db6ac4/cbf1d710120a4937-c4/s100x200/eede639e2b77d325a6de473a83b7af874c056b32.pnj">
 </picture>
-s
 <picture>
  <source media="(prefers-color-scheme: dark)" srcset="https://64.media.tumblr.com/04f2060ebdb0ca4575ec1753fc3beb45/0c9c8ff120441bbf-83/s100x200/4855fe78e4b0c5a654961940933c8fed06df3597.gifv">
  <source media="(prefers-color-scheme: light)" srcset="https://64.media.tumblr.com/04f2060ebdb0ca4575ec1753fc3beb45/0c9c8ff120441bbf-83/s100x200/4855fe78e4b0c5a654961940933c8fed06df3597.gifv">
@@ -110,7 +109,7 @@ s
  <source media="(prefers-color-scheme: light)" srcset="https://camo.githubusercontent.com/3d7d38302cc4b2ada94e8e605f81cdb0db61320c6fb87ee087dfd878a0eb8658/68747470733a2f2f77696c6172646f2e6372642e636f2f6173736574732f696d616765732f67616c6c65727931302f32303266376236362e706e673f763d6236326539343536">
  <img alt="stamp" src="https://camo.githubusercontent.com/3d7d38302cc4b2ada94e8e605f81cdb0db61320c6fb87ee087dfd878a0eb8658/68747470733a2f2f77696c6172646f2e6372642e636f2f6173736574732f696d616765732f67616c6c65727931302f32303266376236362e706e673f763d6236326539343536">
 </picture>
- a
+
 <picture>
  <source media="(prefers-color-scheme: dark)" srcset="https://64.media.tumblr.com/406391ca7f2e373cfaf3e58ce114710a/2105cdcc2d5f66ef-a1/s250x400/ee9f97f582d8c46fb7459f7b8de6f9ce106a9546.gifv">
  <source media="(prefers-color-scheme: light)" srcset="https://64.media.tumblr.com/406391ca7f2e373cfaf3e58ce114710a/2105cdcc2d5f66ef-a1/s250x400/ee9f97f582d8c46fb7459f7b8de6f9ce106a9546.gifv">
@@ -228,20 +227,17 @@ s
  <img alt="stamp" src="https://64.media.tumblr.com/93cd215734387cbd8f59d46422c70285/38c74a158de2bd8e-ff/s75x75_c1/95f3bba05d1b3462f2fba161950521c4bdc009c2.gifv">
 </picture>
 <picture>
- <source media="(prefers-color-scheme: dark)" srcset="">
- <source media="(prefers-color-scheme: light)" srcset="">
- <img alt="stamp" src="">
+ <source media="(prefers-color-scheme: dark)" srcset="https://64.media.tumblr.com/58b311e04d42406228a5d21ede67b2f3/88ea3eeb73f3d5c4-a6/s100x200/c2821b6b2ccc3670d0642ba94a871d43f683995b.jpg">
+ <source media="(prefers-color-scheme: light)" srcset="https://64.media.tumblr.com/58b311e04d42406228a5d21ede67b2f3/88ea3eeb73f3d5c4-a6/s100x200/c2821b6b2ccc3670d0642ba94a871d43f683995b.jpg">
+ <img alt="stamp" src="https://64.media.tumblr.com/58b311e04d42406228a5d21ede67b2f3/88ea3eeb73f3d5c4-a6/s100x200/c2821b6b2ccc3670d0642ba94a871d43f683995b.jpg">
 </picture>
 <picture>
- <source media="(prefers-color-scheme: dark)" srcset="">
- <source media="(prefers-color-scheme: light)" srcset="">
- <img alt="stamp" src="">
+ <source media="(prefers-color-scheme: dark)" srcset="https://64.media.tumblr.com/aee40f576b52cf7934654a8935f5a69f/88ea3eeb73f3d5c4-ec/s100x200/4da581e0d58426c9c870911293a426e399129d93.gifv">
+ <source media="(prefers-color-scheme: light)" srcset="https://64.media.tumblr.com/aee40f576b52cf7934654a8935f5a69f/88ea3eeb73f3d5c4-ec/s100x200/4da581e0d58426c9c870911293a426e399129d93.gifv">
+ <img alt="stamp" src="https://64.media.tumblr.com/aee40f576b52cf7934654a8935f5a69f/88ea3eeb73f3d5c4-ec/s100x200/4da581e0d58426c9c870911293a426e399129d93.gifv">
 </picture>
 <picture>
- <source media="(prefers-color-scheme: dark)" srcset="">
- <source media="(prefers-color-scheme: light)" srcset="">
- <img alt="stamp" src="">
-</picture>
-
- 
+ <source media="(prefers-color-scheme: dark)" srcset="https://64.media.tumblr.com/e51ac7748f2ed3d112929abd794e8811/faea68e1daee2d59-e0/s100x200/797c782d7b2bcc33b6cf0618114c53c1078bc723.gifv">
+ <source media="(prefers-color-scheme: light)" srcset="https://64.media.tumblr.com/e51ac7748f2ed3d112929abd794e8811/faea68e1daee2d59-e0/s100x200/797c782d7b2bcc33b6cf0618114c53c1078bc723.gifv">
+ <img alt="stamp" src="https://64.media.tumblr.com/e51ac7748f2ed3d112929abd794e8811/faea68e1daee2d59-e0/s100x200/797c782d7b2bcc33b6cf0618114c53c1078bc723.gifv">
 </picture>
