@@ -1,5 +1,5 @@
 <h1 align="center">
-˚₊‧꒰ა 𓂋 ໒꒱ ‧₊˚
+˚₊‧꒰ა ☆ ໒꒱ ‧₊˚ 
 </h1>
 <p align="center">
   <img width="600" src="https://files.catbox.moe/xnpp6u.png">
