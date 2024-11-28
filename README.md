@@ -7,6 +7,10 @@
 <p align="center">
   <img src="https://files.catbox.moe/dzlij7.png">
 </p>
+<div style="text-align:center">    
+<a href="https://guns.lol/dollyframes">info</a>
+<a href="https://kuroaka.atabook.org/">atabook</a>
+</div>
 <p align="center">
   <img width="600" src="https://files.catbox.moe/v2r8mj.png">
 </p>
