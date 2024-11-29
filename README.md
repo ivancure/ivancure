@@ -8,7 +8,7 @@
   <img src="https://files.catbox.moe/dzlij7.png">
 </p>
 <p align="center">    
-<a href="https://guns.lol/dollyframes">info</a>
+<a href="https://guns.lol/goyou">info</a>
 <a href="https://kuroaka.atabook.org/">atabook</a>
 </p>
 <p align="center">
